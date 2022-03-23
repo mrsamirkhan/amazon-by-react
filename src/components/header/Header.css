@@ -1,0 +1,20 @@
+.header-nav{
+    height:80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-nav a{
+    text-decoration: none;
+    font-size: 17px;
+    color: #fff;
+    line-height: 20px;
+    margin-left: 36px;
+}
+
+.header-nav a:hover{
+    color: salmon;
+    transition: .3s;
+}
